@@ -1,5 +1,12 @@
-# Refinery Staff Manager
+# Form and ajax generator from MySQL Database
 
-I'm working on some staff management webapp based on PHP, MySQL and JS
+The aim of this project is to simply upload a .csv file to get the structure of a form.
 
-A database has to be accessible, consistent and reliable. That's why I wanted to create a staff management tool that allows managers to know where the workers are deployed and their current status.
+I've spent quite some time working on creating forms, editing databases and then readapt the forms based on the changes made. I've searched online for a solution but I couldn't find any, that's why I thought I could do it on my own.
+
+# What it is:
+This generate only a bare structure, you'll probably still need to adjust it
+
+# What it's not
+A complete solution for creating production forms
+
